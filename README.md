@@ -29,5 +29,5 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a Honors 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/myselfdev786/mr_stark3000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/myselfdev786/myselfdev786/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
